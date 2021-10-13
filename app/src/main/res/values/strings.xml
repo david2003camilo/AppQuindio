@@ -7,7 +7,13 @@
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
-    <string name="menu_home">Home</string>
-    <string name="menu_gallery">Gallery</string>
-    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_inicio">Inicio</string>
+    <string name="menu_hoteles">Hotel</string>
+    <string name="menu_sitios">Sitios</string>
+    <string name="menu_restaurantes">Restaurantes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome">BIENVENIDOS A LA APP QUINDIO</string>
+    <string name="info">Esta es una aplicacion con el fin de ayudar a los turistas que tengan informacion de
+        los sitios turisticos,restaurante o sitios</string>
 </resources>
