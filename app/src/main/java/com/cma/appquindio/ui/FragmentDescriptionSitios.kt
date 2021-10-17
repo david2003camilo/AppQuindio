@@ -1,32 +1,35 @@
-package com.cma.appquindio.ui.we
+package com.cma.appquindio.ui
 
 import android.os.Bundle
-import android.view.*
 import androidx.fragment.app.Fragment
+import android.view.LayoutInflater
+import android.view.Menu
+import android.view.View
+import android.view.ViewGroup
 import com.cma.appquindio.R
-import com.cma.appquindio.databinding.FragmentWeBinding
+import com.cma.appquindio.databinding.FragmentDescriptionRestaurantesBinding
 
-class WeFragment : Fragment() {
+class FragmentDescriptionSitios : Fragment() {
 
-    private var _binding: FragmentWeBinding? = null
-    private val binding get() = _binding!!
+    private var _binding: FragmentDescriptionRestaurantesBinding? = null
+    private val binding get()=_binding!!
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setHasOptionsMenu(true)
     }
+
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
-        savedInstanceState: Bundle?
+        savedInstanceState: Bundle?,
     ): View? {
         // Inflate the layout for this fragment
-        _binding= FragmentWeBinding.inflate(inflater, container, false)
-        val view = binding.root
-        return view
+        return inflater.inflate(R.layout.fragment_description_sitios, container, false)
     }
 
     override fun onPrepareOptionsMenu(menu: Menu) {
         super.onPrepareOptionsMenu(menu)
         menu.removeItem(R.id.linear)
     }
+
 }

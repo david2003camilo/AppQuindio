@@ -6,4 +6,12 @@
         android:orderInCategory="100"
         android:title="@string/action_settings"
         app:showAsAction="never" />
+
+    <item
+        android:id="@+id/linear"
+        android:orderInCategory="200"
+        android:icon="@drawable/ic_launcher_foreground"
+        app:showAsAction="ifRoom"
+        android:visible="true"
+        android:title="TODO" />
 </menu>

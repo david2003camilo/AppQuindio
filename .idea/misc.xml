@@ -3,6 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Administrador/Desktop/AppQuindio/app/src/main/res/layout-land/list_view_object.xml" value="0.13958333333333334" />
+        <entry key="..\:/Users/Administrador/Desktop/AppQuindio/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Administrador/Desktop/AppQuindio/app/src/main/res/layout/fragment_description.xml" value="0.1213768115942029" />
+        <entry key="..\:/Users/Administrador/Desktop/AppQuindio/app/src/main/res/layout/fragment_description_restaurantes.xml" value="0.1213768115942029" />
+        <entry key="..\:/Users/Administrador/Desktop/AppQuindio/app/src/main/res/layout/fragment_description_sitios.xml" value="0.1213768115942029" />
+        <entry key="..\:/Users/Administrador/Desktop/AppQuindio/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/Administrador/Desktop/AppQuindio/app/src/main/res/layout/fragment_hoteles.xml" value="0.1" />
+        <entry key="..\:/Users/Administrador/Desktop/AppQuindio/app/src/main/res/layout/fragment_restaurantes.xml" value="0.1" />
+        <entry key="..\:/Users/Administrador/Desktop/AppQuindio/app/src/main/res/layout/fragment_sitios.xml" value="0.1" />
+        <entry key="..\:/Users/Administrador/Desktop/AppQuindio/app/src/main/res/layout/fragment_we.xml" value="0.1213768115942029" />
+        <entry key="..\:/Users/Administrador/Desktop/AppQuindio/app/src/main/res/layout/list_view_object.xml" value="0.15" />
+        <entry key="..\:/Users/Administrador/Desktop/AppQuindio/app/src/main/res/layout/list_view_object_two.xml" value="0.25" />
+        <entry key="..\:/Users/Administrador/Desktop/AppQuindio/app/src/main/res/menu/activity_main_drawer.xml" value="0.1" />
+        <entry key="..\:/Users/Administrador/Desktop/AppQuindio/app/src/main/res/menu/main.xml" value="0.22" />
         <entry key="..\:/Users/Lenovo/OneDrive/AppQuindio/app/src/main/res/layout-land/activity_main.xml" value="0.1728395061728395" />
         <entry key="..\:/Users/Lenovo/OneDrive/AppQuindio/app/src/main/res/layout-land/content_main.xml" value="0.1728395061728395" />
         <entry key="..\:/Users/Lenovo/OneDrive/AppQuindio/app/src/main/res/layout-land/fragment_restaurantes.xml" value="0.1728395061728395" />
